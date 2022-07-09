@@ -5,8 +5,6 @@
 #### Busco ganhar e aprimorar habilidades na programação, focando sempre no meu desenvolvimento profissional. 💪
 #### Sinta-se a vontade para conversar ou compartilhar experiências/informações sobre tecnologia nas minhas redes sociais. 🤝
 
-###
-
 ## Hello! 😀
 #### My name is Deydson, I'm 18 years old and I'm currently a student of Information Systems at the Federal University of Pará! 👨‍💻
 #### I like anime, reading books, science fiction movies and listening to music. 🌈
@@ -22,12 +20,12 @@
 
 ## Contatos/Contact me:
 <div>
-<a href="https://instagram.com/falloutdey" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="mailto:deydson.siufpa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/falloutdey" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://twitter.com/printpyboy" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
 
-## Relatório/Report: 
+## Relatórios/Reports: 
 <div>
 <a href="https://github.com/falloutdey">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=falloutdey&layout=compact&langs_count=7&theme=dracula"/>
