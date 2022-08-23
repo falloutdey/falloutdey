@@ -1,5 +1,3 @@
-![](sun.gif)
-
 ## Olá! 😀
 #### Me chamo Deydson, tenho 18 anos e atualmente sou estudante de Sistemas de Informação na Universidade Federal do Pará! 👨‍💻
 #### Estudo principalmente Python, HTML, CSS e JavaScript. 💻
