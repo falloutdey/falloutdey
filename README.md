@@ -1,4 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:74%;position:relative;"><iframe src="https://giphy.com/embed/WrUOlEoYhJ6wog4hCJ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/tumbler-ophelias-sunset-sun-aesthetic-grunge-WrUOlEoYhJ6wog4hCJ">via GIPHY</a></p>
+![](sun.gif)
 
 ## Olá! 😀
 #### Me chamo Deydson, tenho 18 anos e atualmente sou estudante de Sistemas de Informação na Universidade Federal do Pará! 👨‍💻
