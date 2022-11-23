@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h4>Student of Information Systems at the Federal University of Pará.<\h4><br><h4>Junior Developer focusing on Front-End and Mobile Development.</h4><br><h4>I seek to gain and improve skills in programming, aiming at my development.</h4>
+Student of Information Systems at the Federal University of Pará.<br>Junior Developer focusing on Front-End and Mobile Development.<br>I seek to gain and improve skills in programming, aiming at my development.
 
 
 ## 🌐 Socials:
