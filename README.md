@@ -1,34 +1,19 @@
-## Olá! 😀
-#### Me chamo Deydson, tenho 18 anos e atualmente sou estudante de Sistemas de Informação na Universidade Federal do Pará! 👨‍💻
-#### Estudo principalmente Python, HTML, CSS e JavaScript. 💻
-#### Busco ganhar e aprimorar habilidades na programação, focando sempre no meu desenvolvimento profissional. 💪
-#### Sinta-se a vontade para conversar ou compartilhar experiências/informações sobre tecnologia nas minhas redes sociais. 🤝
+# 💫 About Me:
+<h4>Student of Information Systems at the Federal University of Pará.<\h4><br><h4>Junior Developer focusing on Front-End and Mobile Development.</h4><br><h4>I seek to gain and improve skills in programming, aiming at my development.</h4>
 
-## Hello! 😀
-#### My name is Deydson, I'm 18 years old and I'm currently a student of Information Systems at the Federal University of Pará! 👨‍💻
-#### I mainly study Python, HTML, CSS and JavaScript. 💻
-#### I seek to gain and improve programming skills, always focusing on my professional development. 💪
-#### Feel free to chat or share experiences/information about technology on my social medias. 🤝
 
-## Linguagens/Languages:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" height="80" />
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/falloutdey) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deydson-costa-676aa1244) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/printpyboy) 
 
-## Ferramentas/Tools: 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="80" height="80" />
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=falloutdey&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=falloutdey&theme=shades-of-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=falloutdey&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## Contatos/Contact me:
-<div>
-<a href="mailto:deydson.siufpa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/falloutdey" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://twitter.com/printpyboy" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-</div>
-
-## Relatórios/Reports: 
-<div>
-<a href="https://github.com/falloutdey">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=falloutdey&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=falloutdey&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=falloutdey&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <!--
 **falloutdey/falloutdey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
