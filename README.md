@@ -1,4 +1,4 @@
-![](https://i.pinimg.com/564x/56/af/aa/56afaa04bf2745345b714ed273cef7ea.jpg)
+![](https://i.pinimg.com/originals/7d/04/0e/7d040e94931427709008aaeda14db9c8.gif)
 
 # 💫 About Me:
 Student of Information Systems at the Federal University of Pará.<br>Junior Developer focusing on Front-End and Mobile Development.<br>I seek to gain and improve skills in programming, aiming at my development.
