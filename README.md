@@ -1,8 +1,7 @@
 ![](https://i.pinimg.com/originals/7d/04/0e/7d040e94931427709008aaeda14db9c8.gif)
 
 # 💫 About Me:
-Student of Information Systems at the Federal University of Pará.<br>Junior Developer focusing on Front-End and Mobile Development.<br>I seek to gain and improve skills in programming, aiming at my development.
-
+Estudante de Sistemas de Informação na Universidade Federal do Pará<br>Desenvolvedor Junior com foco em desenvolvimento de sistemas nas tecnologias Java e Python<br>Busco ganhar e melhorar as minhas habilidades, visando meu crescimento profissional.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/falloutdey) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deydson-costa-676aa1244) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/printpyboy) 
